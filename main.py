@@ -1,6 +1,4 @@
-import quizcode, recitation8
+import quizcode, recitation8, Chem_Stoich
 
 if __name__ == "__main__":
-  recitation8.goShopping()
-  quizcode.hiddenQuote()
-  quizcode.list()
+  quizcode.outputObs()
